@@ -1,0 +1,8 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "thrift": "^0.9.3",
+    "winston": "^2.2.0"
+  }
+}
